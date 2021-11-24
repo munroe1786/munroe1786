@@ -10,7 +10,7 @@ I'm Eliza, an aspiring software engineer and career changer, focusing on Javascr
 
 🌱 I’m currently learning how to create small games as a way to keep working on my skills.  APIs are also something that I am working on learning more about by building apps that utilize API calls.  I plan to learn Java soon as well.
 
-⚡ Fun fact: I used to bake bread at a cafe in Athens, GA.  
+⚡ Fun facts: I used to bake bread at a cafe in Athens, GA and stil do now and again.  I also played cello in middle and high school and would like to take it up again soon.
 
 📫 How to reach me: my email address is era3munroe at gmail dot com.
 

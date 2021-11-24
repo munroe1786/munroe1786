@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Eliza, an aspiring software engineer and career changer.  
+
 <!--
 **munroe1786/munroe1786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

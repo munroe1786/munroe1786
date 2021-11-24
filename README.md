@@ -1,3 +1,7 @@
+![lightscape-LtnPejWDSAY-unsplash](https://user-images.githubusercontent.com/51828035/143289479-4c420041-8513-43e0-9264-3a53b6fefbf7.jpg)
+
+
+
 ### Hi there 👋
 
 I'm Eliza, an aspiring software engineer and career changer, focusing on Javascript, React and Ruby on Rails. I graduated from the Flatiron School's Software Engineering program and am looking to join a team to put my new skills to work.  
